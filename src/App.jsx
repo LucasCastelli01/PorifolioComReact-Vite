@@ -17,9 +17,7 @@ export default function App() {
 
       <ConteudoPortfolio/>
 
-      
-
-      <p>Sou o Lucas Castelli, nascido em Casca RS, gosto muito de técnologia e sou apaixonado por E-Sports!</p>
+    
 
     </div>
   )
