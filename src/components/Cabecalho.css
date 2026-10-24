@@ -1,0 +1,16 @@
+h1 {
+    color: #333;
+}
+
+body {
+    align-items: center;
+    --cor-fundo: #e8f6fc;
+    background-color: var(--cor-fundo);
+}
+
+
+.imgMenor {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}

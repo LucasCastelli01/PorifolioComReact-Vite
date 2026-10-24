@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  --cor-fundo: #c0e6f7;
+  background-color: var(--cor-fundo);
+}
+
+* {
+  margin: 0px;
+}
