@@ -4,8 +4,6 @@ h1 {
 
 body {
     align-items: center;
-    --cor-fundo: #e8f6fc;
-    background-color: var(--cor-fundo);
 }
 
 
@@ -13,4 +11,10 @@ body {
     width: 130px;
     height: 130px;
     border-radius: 50%;
+    border: 2px solid black;
+}
+
+.cabecalho {
+    background-color: #8db3ca;
+    padding: 15px 0 20px;
 }
