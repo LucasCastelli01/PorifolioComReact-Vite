@@ -1,13 +1,5 @@
-.listaTecnologias {
-    width: max-content;
-    margin: 0 auto;
-    padding-left: 55px;
-    text-align: left;
-}
-
-.listaQueroaprender{
-    width: max-content;
-    margin: 0 auto;
-    padding-left: 225px;
-    text-align: left;
+.conteudoPortfolio {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
 }
